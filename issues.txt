@@ -1,0 +1,26 @@
+Functional issues :
+
+
+
+
+
+
+
+
+Security issues:
+
+
+
+
+
+
+
+Design issues:
+
+
+
+
+
+
+
+User - acceptance issues :
